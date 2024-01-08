@@ -42,7 +42,7 @@ Foundation models like the Segment Anything Model (SAM) have demonstrated promis
  </b></figcaption>
 
 
- ##  Citing SurgicalSAM
+ ##  Citing SurgicalPart-SAM
 
 If you find SurgicalPart-SAM helpful, please consider citing:
 ```
