@@ -46,10 +46,10 @@ Foundation models like the Segment Anything Model (SAM) have demonstrated promis
 
 If you find SurgicalPart-SAM helpful, please consider citing:
 ```
-@misc{yue2023surgicalpartsam,
-      title={Part to Whole: Collaborative Prompting for Surgical Instrument Segmentation}, 
+@misc{yue2024surgicalpartsam,
+      title={SurgicalPart-SAM: Part-to-Whole Collaborative Prompting for Surgical Instrument Segmentation}, 
       author={Wenxi Yue and Jing Zhang and Kun Hu and Qiuxia Wu and Zongyuan Ge and Yong Xia and Jiebo Luo and Zhiyong Wang},
-      year={2023},
+      year={2024},
       eprint={2312.14481},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
