@@ -1,4 +1,4 @@
-<h3 align="center"> Part to Whole: Collaborative Prompting for Surgical Instrument Segmentation </h3>
+<h3 align="center"> SurgicalPart-SAM: Part-to-Whole Collaborative Prompting for Surgical Instrument Segmentation </h3>
 <p align="center">
 <a href="https://arxiv.org/pdf/2312.14481.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
 </p>
